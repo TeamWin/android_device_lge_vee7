@@ -1,0 +1,2 @@
+add_lunch_combo omni_vee7-eng
+add_lunch_combo omni_vee7-userdebug
