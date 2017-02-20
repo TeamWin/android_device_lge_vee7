@@ -5,7 +5,7 @@ Add to `.repo/local_manifests/vee7.xml`:
 ```xml
 <?xml version="1.0" encoding="UTF-8"?>
 <manifest>
-	<project name="nicknitewolf/android_device_lge_vee7-twrp" path="device/lge/vee7"  remote="github" revision="android-7.1" />
+	<project name="android_device_lge_vee7" path="device/lge/vee7"  remote="TeamWin" revision="android-7.1" />
 </manifest>
 ```
 
